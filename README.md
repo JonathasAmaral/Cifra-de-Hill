@@ -28,3 +28,12 @@ Se a chave for uma matriz 2x2 e o texto claro for "HI", os passos seriam:
 
 1. Converter "HI" em números, por exemplo, H=7 e I=8.
 2. Formar um vetor coluna:
+
+
+## Contribuição
+
+Se você deseja contribuir com este projeto, sinta-se à vontade para abrir issues e pull requests. Agradecemos sua ajuda!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
